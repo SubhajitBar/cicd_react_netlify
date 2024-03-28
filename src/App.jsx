@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>SUBHAJIT BAR</h1>
+      <h3>CI/CD pipelining by Github Action and Netlify </h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
